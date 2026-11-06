@@ -1,0 +1,46 @@
+{
+  "schema": 1,
+  "target": "cla7aye15I4nd/opensource-gnu__gettext",
+  "canonical_upstream": "https://git.savannah.gnu.org/cgit/gettext.git",
+  "source": {
+    "kind": "release",
+    "version": "1.0",
+    "revision": "85d99b79c981a404874c02e0342176cf75c7698e2b51fe41031cf6526d974f1a",
+    "archive_url": "https://ftpmirror.gnu.org/gettext/gettext-1.0.tar.gz",
+    "formula": "gettext",
+    "upstream_url": "https://git.savannah.gnu.org/cgit/gettext.git",
+    "source_checksum_matches_registry": true
+  },
+  "publication_review": {
+    "license_files": [
+      "COPYING",
+      "gettext-runtime/COPYING",
+      "gettext-runtime/intl/COPYING.LIB",
+      "gettext-runtime/libasprintf/COPYING",
+      "gettext-runtime/libasprintf/COPYING.LIB",
+      "gettext-tools/COPYING",
+      "gettext-tools/gnulib-lib/libxml/COPYING",
+      "gettext-tools/tree-sitter-0.23.2/LICENSE",
+      "gettext-tools/tree-sitter-0.23.2/lib/src/unicode/LICENSE",
+      "gettext-tools/tree-sitter-d-0.8.2/LICENSE",
+      "gettext-tools/tree-sitter-go-0.23.4/LICENSE",
+      "gettext-tools/tree-sitter-ocaml-0.23.2/LICENSE",
+      "gettext-tools/tree-sitter-rust-0.23.2/LICENSE",
+      "gettext-tools/tree-sitter-typescript-0.23.2/LICENSE",
+      "gnulib-local/lib/libxml/COPYING",
+      "libtextstyle/COPYING",
+      "libtextstyle/lib/libxml/COPYING"
+    ],
+    "notice_files": [
+      "AUTHORS",
+      "gettext-runtime/AUTHORS",
+      "gettext-runtime/intl/AUTHORS",
+      "gettext-runtime/libasprintf/AUTHORS",
+      "gettext-tools/AUTHORS",
+      "libtextstyle/AUTHORS"
+    ],
+    "public_fixture_key_markers": []
+  },
+  "upstream_tree_sha256": "bf69d7d6146f27dc366b841ed72323cb958d5b40a745751c69438b45467d0d2e",
+  "tree_sha256": "9b50112d45f64274bd19cabee48e1cbbbf4451047c77674c5ea0d95995fb2028"
+}
